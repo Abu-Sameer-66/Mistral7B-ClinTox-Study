@@ -42,14 +42,3 @@ The **Mistral-ClinTox Engine** leverages a quantized 7B-parameter Large Language
 Epoch 1 | ROC-AUC: 0.9768 (Initial Alignment)
 Epoch 2 | ROC-AUC: 0.9913 (Maximum Convergence) 🏆
 Epoch 3 | ROC-AUC: 0.9877 (Stabilization)
-
-graph TD
-    A[🧪 ClinTox Dataset] -->|DeepChem| B(Scaffold Splitter)
-    B -->|Minority Class| C{5x Oversampling + RDKit Noise}
-    C -->|Tokenize| D[Prompt: Task + SMILES]
-    D -->|Feed| E[🧠 Quantized Mistral-7B]
-    E -->|AdamW + Grad Clip| F[🚀 Toxic/Safe Prediction]
-    
-    style E fill:#0575e6,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#E50914,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#00C853,stroke:#fff,stroke-width:2px,color:#fff
