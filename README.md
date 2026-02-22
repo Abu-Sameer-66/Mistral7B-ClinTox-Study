@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E50914,000000,0575E6&height=280&section=header&text=Mistral-ClinTox%20Engine&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=LLM-Powered%20Clinical%20Toxicity%20Prediction&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&ColorList=896A15,6E8915,98351F&height=230&section=header&text=Mistral-ClinTox%20Engine&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=LLM-Powered%20Clinical%20Toxicity%20Prediction&descAlignY=60&descAlign=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=750&lines=Initializing+Mistral-7B-v0.1...;Executing+DeepChem+Scaffold+Split...;Applying+RDKit+SMILES+Augmentation...;Training+Bio-Chemical+Neural+Link...;0.99+ROC-AUC+Achieved." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=750&lines=Initializing+Mistral-7B-v0.1...;Executing+DeepChem+Scaffold+Split...;Applying+RDKit+SMILES+Augmentation...;Training+Bio-Chemical+Neural+Link...;0.99+ROC-AUC+Achieved." />
   </a>
 
   <br/>
