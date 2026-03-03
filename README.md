@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=750&lines=Initializing+Mistral-7B-v0.1...;Executing+DeepChem+Scaffold+Split...;Applying+RDKit+SMILES+Augmentation...;Training+Bio-Chemical+Neural+Link...;0.99+ROC-AUC+Achieved." />
   </a>
 
-
   <br/>
 
   <img src="https://img.shields.io/badge/Mistral_7B-000000?style=for-the-badge&logo=mistral&logoColor=white" />
